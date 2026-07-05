@@ -32,7 +32,7 @@ This internship helped me strengthen my practical knowledge in:
 ## 🔹 Task 1 – SQL Data Exploration
 
 Repository:
-(Paste Task 1 GitHub Link)
+https://github.com/JyothiArchini/Task1_Data_Wrangling
 
 ### Skills
 
@@ -47,7 +47,8 @@ Repository:
 ## 🔹 Task 2 – Data Analysis using Python
 
 Repository:
-(Paste Task 2 Link)
+
+https://github.com/JyothiArchini/EDA-Business-Intelligence
 
 ### Skills
 
@@ -62,7 +63,7 @@ Repository:
 ## 🔹 Task 3 – Interactive Dashboard
 
 Repository:
-(Paste Task 3 Link)
+https://github.com/JyothiArchini/Task3-Deep-Dive-Analysis-Dashboard
 
 ### Skills
 
@@ -77,7 +78,7 @@ Repository:
 ## 🔹 Task 4 – Statistical Analysis
 
 Repository:
-(Paste Task 4 Link)
+https://github.com/JyothiArchini/Task-4_Data-Storytelling_-_Statistical-Analysis
 
 ### Skills
 
@@ -124,10 +125,3 @@ This internship enabled me to complete a complete Data Analytics workflow starti
 
 ---
 
-# Contact
-
-GitHub:
-(Your GitHub Profile)
-
-LinkedIn:
-(Your LinkedIn Profile)
